@@ -16,6 +16,7 @@
 
 #developer-info .text-container {
     position: relative;
+    display: inline-block;
 }
 
 #developer-info a {

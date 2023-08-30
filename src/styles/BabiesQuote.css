@@ -1,11 +1,21 @@
 /* Big Screens */
 #babies-quote {
-    background: url("../../public/assets/images/bg-1.jpg") repeat fixed 0%;
+    background: url("../../public/assets/images/bg-3.jpg");
+    background-size: 100%;  
+    position: relative
+}
+
+#babies-quote #babies-quote-ts-particles {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 #babies-quote .inner-content {
     padding: 7% 15%;
-    color: #fff;
+    color: #000428;
 }
 
 #babies-quote .inner-content h1 {
@@ -32,6 +42,7 @@
 #babies-quote img {
     width: 30%;
     border-radius: 50%;
+    position: relative;
 }
 
 /* Tablet Wide Screens */
@@ -41,7 +52,7 @@
 /* New Mobile Phones Wide Screens */
 @media (max-width: 428px) {
     #babies-quote {
-        background: url("../../public/assets/images/bg-1.jpg") repeat fixed 18%;
+        background: url("../../public/assets/images/bg-3.jpg") repeat fixed 18%;
     }
     #babies-quote .inner-content {
         padding: 7% 10%;
