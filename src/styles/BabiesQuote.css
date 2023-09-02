@@ -1,8 +1,8 @@
 /* Big Screens */
 #babies-quote {
     background: url("../../public/assets/images/bg-3.jpg");
-    background-size: 100%;  
-    position: relative
+    background-size: 100%;
+    position: relative;
 }
 
 #babies-quote #babies-quote-ts-particles {
@@ -43,6 +43,7 @@
     width: 30%;
     border-radius: 50%;
     position: relative;
+    border: 2px solid;
 }
 
 /* Tablet Wide Screens */
