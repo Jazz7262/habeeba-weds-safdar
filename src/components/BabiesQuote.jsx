@@ -17,7 +17,7 @@ function BabiesQuote() {
                 options={babiesQuoteParticlesConfig}
             ></Particles>
             <div className="inner-content">
-                <h1>Hearty Welcome to My Aunt's Wedding ....</h1>
+                <h1>Mere Habi ki Shaadi mei Zaroor Aana ...</h1>
                 <div className="wrapper">
                     <div className="d-inline">
                         <h1 className="maashaallaah mr-lg-5 pr-lg-3 mr-4 pr-2">
